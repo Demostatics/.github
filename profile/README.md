@@ -8,7 +8,7 @@ Welcome to the **Demostatics** organization! We build tools for collecting, anal
 |---|---|---|
 | **demostatics-web** | The main web application — user-facing dashboard and admin panel. | PHP (Laravel), JS|
 | **demostatics-pc_application** | Desktop client for Windows/Linux, for offline data entry and analysis. | Rust |
-| **demostatics-mobile_application** | Mobile app for viewing reports and entering data on the go. | - |
+| **demostatics-mobile_application** | Mobile app for viewing reports and entering data on the go. | — |
 | **demostatics-docs** | Project documentation — setup guides, API references, and developer notes. | JavaScript |
 | **.github** | Organization profile and shared community files (you're reading it now). | — |
 
