@@ -10,6 +10,7 @@ Welcome to the **Demostatics** organization! We build tools for collecting, anal
 | **demostatics-pc_application** | Desktop client for Windows/Linux, for offline data entry and analysis. | Rust |
 | **demostatics-mobile_application** | Mobile app for viewing reports and entering data on the go. | — |
 | **demostatics-docs** | Project documentation — setup guides, API references, and developer notes. | JavaScript |
+| **demostatics-backend** | Server Backend Workers | C/C++/Rust |
 | **.github** | Organization profile and shared community files (you're reading it now). | — |
 
 > 🔒 Most of our repositories are currently **private** while the project is under active development.
